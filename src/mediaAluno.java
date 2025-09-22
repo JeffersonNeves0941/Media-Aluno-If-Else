@@ -41,7 +41,7 @@ public class mediaAluno {
         System.out.println("A media do aluno é; " + mediaFinal);
 
         if (mediaFinal >= 5) {
-            System.out.println("O aluno " + nomeDoAluno + " foi " + " Aprovado");
+            System.out.println("O aluno '   " + nomeDoAluno + " foi " + " Aprovado");
         } else {
             System.out.println("O aluno " + nomeDoAluno + " foi " + " Reprovado");
         }
